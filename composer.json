@@ -1,5 +1,5 @@
 {
-  "name": "rafaelstz/deployer-magento2",
+  "name": "cristhianss/deployer-magento2",
   "description": "Magento 2 deployment tool based on deployer.org",
   "keywords": ["magento2", "magento", "deployment", "deployer", "deploy", "tool"],
   "license": [
@@ -7,8 +7,8 @@
   ],
   "authors": [
     {
-      "name": "Rafael Corrêa Gomes",
-      "email": "rafaelcgstz@gmail.com"
+      "name": "Cristhian Silveira Silva",
+      "email": "cristhianss@gmail.com"
     }
   ],
   "require": {
